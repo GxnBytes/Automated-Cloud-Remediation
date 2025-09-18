@@ -23,7 +23,7 @@ By deploying infrastructure with **Terraform or CloudFormation**, this project h
 - **Kinesis Firehose / API Gateway + Lambda** – Data ingestion  
 - **AWS Lambda / Glue** – Data processing  
 - **Athena / Redshift** – Data querying and analytics  
-- **QuickSight / Superset** – Visualization and dashboards  
+- **QuickSight / Superset** – Visualisation and dashboards  
 - **Terraform / CloudFormation** – Infrastructure as Code  
 
 ---
