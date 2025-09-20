@@ -38,21 +38,11 @@ The chatbot leverages **Amazon Lex** for natural language understanding (NLU) an
 
 ---
 
-## 📁 Project Structure
-
-```bash
-aws-ai-chatbot/
-├── terraform/ # Infrastructure as Code (if used)
-├── lambda/ # Lambda functions
-├── lex-bot-definition/ # Lex bot intents and slot definitions
-├── connect-setup/ # Amazon Connect configs
-├── s3-content/ # Static files for chatbot responses
-├── README.md
-└── .gitignore
-```
 ## ✅ Outcome
 
 - Hands-on experience with **AWS Lex, Lambda, Connect, DynamoDB, S3, SageMaker, and Cognito**
 - Built a **real-world AI chatbot** with natural conversation capabilities
 - Applied **Infrastructure as Code (IaC)** and AWS-native tools to create scalable, intelligent support systems
 - Gained exposure to **AI, serverless architecture, and user authentication**
+
+---
