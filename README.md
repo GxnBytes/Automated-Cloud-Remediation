@@ -1,7 +1,5 @@
 # AI-Powered Customer Support Chatbot on AWS
 
-> 🌐 A cloud-based chatbot for real-time customer support using Amazon Lex, Lambda, Connect, DynamoDB, and SageMaker — built to automate and enhance the customer experience across web, mobile, and voice channels.
-
 ![Status](https://img.shields.io/badge/status-In%20Development-yellow)
 
 ---
