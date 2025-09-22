@@ -14,7 +14,7 @@ The chatbot leverages **Amazon Lex** for natural language understanding (NLU) an
 
 ## 🎯 Objectives
 
-- Deliver immediate, personalized customer support via chatbot
+- Deliver immediate, personalised customer support via chatbot
 - Automate backend responses and data handling with serverless tools
 - Support multi-channel interaction including web, mobile, and voice
 - Continuously improve the chatbot using machine learning
