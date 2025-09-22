@@ -6,9 +6,16 @@
 
 ## 🚀 Project Overview
 
-This project builds an intelligent, multi-channel **customer support chatbot** on **Amazon Web Services (AWS)**. Using **AI and serverless technologies**, the bot can engage in natural conversation, respond to queries in real-time, and escalate to human agents when needed.
+This project develops an intelligent, **multi-channel customer support chatbot** on **Amazon Web Services (AWS)**. Leveraging **AI** and **serverless technologies**, the chatbot can engage in natural conversations, provide real-time responses, and escalate issues to human agents when necessary.
 
-The chatbot leverages **Amazon Lex** for natural language understanding (NLU) and speech recognition (ASR), integrates with **AWS Lambda** for backend logic, supports voice interaction through **Amazon Connect**, and stores session data using **DynamoDB** and **S3**. It uses **Amazon SageMaker** for continuous improvement through machine learning, and **Amazon Cognito** for secure user authentication.
+Key components include:
+
+- **Amazon Lex** for natural language understanding (NLU) and speech recognition (ASR)
+- **AWS Lambda** to handle backend logic
+- **Amazon Connect** for voice interaction capabilities
+- **DynamoDB** and **S3** for session data storage
+- **Amazon SageMaker** to continuously improve the chatbot through machine learning
+- **Amazon Cognito** for secure user authentication
 
 ---
 
