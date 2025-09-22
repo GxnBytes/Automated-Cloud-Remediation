@@ -22,6 +22,10 @@ The chatbot leverages **Amazon Lex** for natural language understanding (NLU) an
 
 ---
 
+## ✨ Features
+
+---
+
 ## 🛠️ Tools & AWS Services Used
 
 | Service              | Purpose                                                                 |
@@ -36,7 +40,21 @@ The chatbot leverages **Amazon Lex** for natural language understanding (NLU) an
 
 ---
 
-## ✅ Outcome
+## 📦 Getting Started
+
+### ✅ Prerequisites
+
+---
+
+### 🛠️ Installation Notes
+
+---
+
+### 📖 Usage
+
+---
+
+## ✅ Outcome/ Key Takeaways
 
 - Hands-on experience with **AWS Lex, Lambda, Connect, DynamoDB, S3, SageMaker, and Cognito**
 - Built a **real-world AI chatbot** with natural conversation capabilities
@@ -44,3 +62,15 @@ The chatbot leverages **Amazon Lex** for natural language understanding (NLU) an
 - Gained exposure to **AI, serverless architecture, and user authentication**
 
 ---
+
+## 🔗 Resources
+
+---
+
+## 🐛 Issues
+
+---
+
+## 📜 License
+
+Authored by © Genesis Phillips
