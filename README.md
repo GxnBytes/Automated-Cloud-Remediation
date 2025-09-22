@@ -54,15 +54,6 @@ The chatbot leverages **Amazon Lex** for natural language understanding (NLU) an
 
 ---
 
-## ✅ Outcome/ Key Takeaways
-
-- Hands-on experience with **AWS Lex, Lambda, Connect, DynamoDB, S3, SageMaker, and Cognito**
-- Built a **real-world AI chatbot** with natural conversation capabilities
-- Applied **Infrastructure as Code (IaC)** and AWS-native tools to create scalable, intelligent support systems
-- Gained exposure to **AI, serverless architecture, and user authentication**
-
----
-
 ## 🔗 Resources
 
 ---
